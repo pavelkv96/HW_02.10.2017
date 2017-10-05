@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
     //Dev one
     //Dev three
     //Emulate conflict
-    //Dev two
     //Create conflict
+    //Stash
 }
