@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
     //Create conflict in master
     //Dev one
+    //Dev three
     //Emulate conflict
     //Dev two
     //Create conflict
