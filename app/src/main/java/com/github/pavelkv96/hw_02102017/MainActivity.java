@@ -11,4 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     //Create conflict in master
+    //Dev one
+    //Emulate conflict
+    //Dev two
+    //Create conflict
 }
